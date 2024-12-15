@@ -14,7 +14,7 @@ const fontSans = FontSans({
 
 export const metadata: Metadata = {
   title: 'G_Docs',
-  description: 'Your go-to collaborative editor',
+  description: 'For the Real G's',
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
